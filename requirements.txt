@@ -1,7 +1,6 @@
 absl-py==1.4.0
 anaconda-client==1.11.2
 anaconda-navigator==2.4.0
-anyio @ file:///C:/ci/anyio_1644481921011/work/dist
 appdirs==1.4.4
 astunparse==1.6.3
 atomicwrites==1.4.0
