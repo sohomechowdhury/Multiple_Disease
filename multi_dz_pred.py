@@ -4,7 +4,9 @@ Created on Thu Mar  9 09:50:14 2023
 
 @author: starj
 """
+import sys
 
+sys.path.insert(1, "D:\Anaconda\Lib\site-packages\streamlit_option_menu")
 import pickle
 import streamlit as st
 from streamlit_option_menu import option_menu
