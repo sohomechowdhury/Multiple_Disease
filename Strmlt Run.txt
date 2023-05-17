@@ -1,0 +1,1 @@
+streamlit run "C:/Users/starj/OneDrive/Desktop/Multiple/multi_dz_pred.py"
